@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "731046990100",
+    "firebase_url": "https://e-gbs-366a2.firebaseio.com",
+    "project_id": "e-gbs-366a2",
+    "storage_bucket": "e-gbs-366a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:731046990100:android:6dd6d8d6ff607a86367201",
+        "android_client_info": {
+          "package_name": "com.gandaki.gbs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "731046990100-5la1j7if2t34ibtp65u45dgbfdous65a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJOamLlb9cs-OOiuhtguVUmhFDoMJED4Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "731046990100-5la1j7if2t34ibtp65u45dgbfdous65a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
